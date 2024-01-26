@@ -1,0 +1,35 @@
+Given two numbers
+
+calculate the sum of the two numbers
+return the sum of the two numbers
+
+
+START
+
+GET two numbers
+
+SET sum = sum of the two numbers
+PRINT sum
+
+END
+
+
+
+Given a character and a string
+
+set the number of occurrences to 0
+set 3rd occurrence to null
+
+iterate over each character in the given string
+  - check if the current character is equal to the given character
+    - if so, increment occurrences by 1
+  - else
+    do nothing continue looping
+  
+  - check if number of occurrences is 3
+    - assign 3rd occurrence of that character to 3rd occurrence
+    - stop the loop
+  - else
+    do nothiing contiune looping
+
+return the 3rd occurrence

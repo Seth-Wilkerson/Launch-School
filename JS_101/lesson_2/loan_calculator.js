@@ -56,7 +56,7 @@ function requestUserToRunAgain() {
   display(MESSAGE.requestRunCalculatorAgain);
   let userInputToRunAgain = readline.question();
 
-  while (!['1', '2'].includes(userInputToRunAgain)) {
+  while (![YES, NO].includes(userInputToRunAgain)) {
     display(MESSAGE.inputRequirements);
     userInputToRunAgain = readline.question();
   }

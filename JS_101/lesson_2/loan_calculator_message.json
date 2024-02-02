@@ -1,0 +1,13 @@
+{
+  "invalidNumber": "That is not a valid number!",
+  "tryAnotherNumber": "Try entering a valid number: ",
+  "invalidPercentage": "That is not a valid percentage!",
+  "tryAnotherPercentage": "Try entering a valid percentage (0-100): ",
+  "greeting": "Welcome to Loan Calculator!",
+  "line": "-------------------------------",
+  "requestLoanAmount": "Enter the loan amount in dollars: ",
+  "requestLoanApr": "Enter the loan APR (0-100): ",
+  "requestLoanDuration": "Enter the duration of the loan in years: ",
+  "requestRunCalculatorAgain": "Do you want to do another loan?\n1.) Yes\n2.) No",
+  "inputRequirements": "Must choose 1 or 2"
+}

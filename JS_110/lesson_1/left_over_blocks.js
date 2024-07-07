@@ -29,6 +29,10 @@ Write a program that, given the number for a specific amount of cubes, calculate
 
   What is a layer?
   What is an upper or lower layer?
+  What is a gap?
+  is the input an integer?
+  what if the amount left over is 0?
+  
 
 
 // Examples
